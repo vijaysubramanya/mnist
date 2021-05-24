@@ -1,0 +1,9 @@
+#ignore all csv files
+*.csv
+
+#ignore all models
+*.bin
+
+#ignore notebook and bytecode files
+*.pyc
+*.ipynb
